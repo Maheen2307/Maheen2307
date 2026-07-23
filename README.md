@@ -32,10 +32,10 @@
 
 ---
 
-## 📈 GitHub Stats & Contributions
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheen2307&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Maheen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheen2307&theme=tokyonight&hide_border=true" alt="Maheen's GitHub Stats" />
 </p>
 
 ---
