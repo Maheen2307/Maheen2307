@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Welcome+to+my+GitHub+profile;Building+modern+full-stack+web+applications;Designing+relational+schemas+and+SQL+queries;Always+exploring+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Welcome+to+my+GitHub+profile+!;Building+modern+full-stack+web+applications;Designing+relational+schemas+and+SQL+queries;~+Always+exploring+new+tech" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=Maheen2307&theme=tokyonight" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.io/38BDF8/Maheen2307" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
