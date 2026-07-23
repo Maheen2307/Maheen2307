@@ -18,8 +18,8 @@ jobs:
           python-version: '3.x'
 
       - name: Rotate BTS Lyrics in README
-        shell: python {0}
         run: |
+          cat << 'EOF' > update_script.py
           import re, random, urllib.parse
 
           # 💜 Exact 110 Master Pool: Arirang + LY: Answer + Solos + OT7 B-Sides
@@ -173,6 +173,8 @@ jobs:
           # Write back to README.md
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(updated_content)
+          EOF
+          python update_script.py
 
       - name: Commit & Push Changes
         run: |
