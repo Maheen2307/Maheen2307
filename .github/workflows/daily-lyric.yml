@@ -22,155 +22,156 @@ jobs:
           cat << 'EOF' > update_script.py
           import re, random, urllib.parse
 
-          # 💜 Exact 110 Master Pool: Arirang + LY: Answer + Solos + OT7 B-Sides
+          # 💜 100% Pure BTS (OT7 + Member Solos) Motivational Master Pool (115 Lines)
           lyrics_pool = [
-              # --- Arirang Playlist Tracks (13) ---
-              '"Feel the rhythm move us, body to body." — Body to Body',
-              '"We are aliens in this world, shining in our own light." — Aliens',
-              '"Setting our dreams on fire, burning with FYA." — FYA',
-              '"Upgrading to the next level, welcome to 2.0." — 2.0',
-              '"They don\'t know about the magic between us." — they don\'t know \'bout us',
-              '"Why try to be normal when you were born to stand out?" — NORMAL',
-              '"Round and round like a merry-go-round, we keep spinning." — Merry go round',
-              '"Wild at heart, breaking free like animals." — Animals',
-              '"Flying higher, straight into the sun without fear." — Into the sun',
-              '"Drowning in your eyes, learning how to swim." — Swim',
-              '"Please hold on to my hand when the night gets dark." — Please',
-              '"Leave the world behind and come over tonight." — Come over',
-              '"Just give me one more night under the stars." — One more night',
-
-              # --- Love Yourself: Answer Album Tracks (16) ---
-              '"Whatever anyone says, I\'m just me." — IDOL',
+              # --- OT7 Meaningful & Motivational Classics (45) ---
+              '"The dawn right before the sun rises is the darkest." — Tomorrow',
+              '"Because the dawn before sunrise is darkest, never forget the you of today." — Tomorrow',
+              '"You\'re too young to let the world break you." — Run',
+              '"Forever, we are young; even when I fall, I get up and run again." — Epilogue: Young Forever',
+              '"No season can last forever, no winter lasts forever." — Spring Day',
+              '"Erasing all sad memories, hold each other\'s hands and smile." — 2! 3!',
+              '"It’s okay, now count 1, 2, 3 and forget. Erase all sad memories." — 2! 3!',
+              '"Shine, dream, smile. Light up the night." — Mikrokosmos',
+              '"You got me, I dream while looking at you." — Mikrokosmos',
+              '"Life goes on... like an echo in the forest." — Life Goes On',
+              '"One day the world stopped, but let\'s take a deep breath again." — Life Goes On',
+              '"We don\'t need to worry, cause when we fall we know how to land." — Permission To Dance',
+              '"We were born to be real, not to be perfect." — The Truth Untold',
+              '"Spread your wings and fly high toward the sky." — Wings',
+              '"Don\'t give up, you know you\'re not alone." — A Supplementary Story',
+              '"Even if it\'s a steep hill, keep running forward." — Run BTS',
+              '"Let\'s write our own ending to this story." — For Youth',
+              '"Our voices will reach across the oceans." — Louder than bombs',
+              '"Your existence alone brings peace to my mind." — Best Of Me',
+              '"Keep believing in the magic inside you." — Magic Shop',
+              '"On days I hate being myself, I make a door in my heart." — Magic Shop',
+              '"It\'s okay to stop, there\'s no need to run without knowing why." — Paradise',
+              '"It\'s okay to not have a dream as long as you have moments of happiness." — Paradise',
+              '"The best moment is yet to come." — Yet To Come',
+              '"We gonna touch the sky, before the day we die." — Yet To Come',
+              '"We shine brightest when we are together." — We are Bulletproof: the Eternal',
+              '"We were only seven, but we have you all now." — We are Bulletproof: the Eternal',
+              '"Every scar is a reminder of our strength." — Black Swan',
+              '"Where there is hope, there is always hardship." — Sea',
+              '"The desert became an ocean because of us." — Sea',
               '"Love myself, love yourself." — Answer: Love Myself',
               '"You\'ve shown me I have reasons I should love myself." — Answer: Love Myself',
               '"The me of yesterday, today, and tomorrow, I\'m learning to love myself." — Answer: Love Myself',
               '"It\'s okay, even if it\'s not perfect, it\'s still beautiful." — Answer: Love Myself',
+              '"Whatever anyone says, I\'m just me." — IDOL',
+              '"You can\'t stop me loving myself." — IDOL',
               '"I\'m fine, all of my pain is gone." — I\'m Fine',
-              '"Did you see my bag? It\'s full of trophies." — MIC Drop',
-              '"You gave me the best of me, so you\'ll give you the best of you." — Magic Shop',
+              '"Even if I fall again, I\'m okay." — I\'m Fine',
+              '"If you can\'t fly, then run. Today we will survive." — Not Today',
+              '"Don\'t kneel, don\'t cry, keep your hands up high!" — Not Today',
+              '"Reject rejection! I was always too much." — Dope',
+              '"Live your life however you want, it’s yours anyway." — Fire',
+              '"Don’t try too hard, it’s okay to lose." — Fire',
+              '"In the middle of the road, don\'t stop, just keep going." — So What',
+              '"I\'m full of love, so I\'ll give it all to you." — Heartbeat',
+
+              # --- RM Solos & Deep Lyrics (10) ---
+              '"I\'m just a human learning how to love myself." — Persona',
+              '"When it rains, I feel like I\'m not alone." — forever rain',
+              '"Even in solitude, flowers bloom in silence." — Wild Flower',
+              '"When my fury turns to flame, light the flower." — Wild Flower',
+              '"Even if you\'re not perfect, you\'re limited edition." — Do You',
+              '"Everything passes, just like everything goes." — everythingoes',
+              '"I wish I could love myself." — Reflection',
+              '"Moonchild, don\'t cry. When moon rise, it\'s your time." — Moonchild',
+              '"We are born in the moonlight, not a fantasy." — Moonchild',
+              '"To lose your path is the way to find that path." — Lost',
+
+              # --- Jin Solos (10) ---
               '"I\'m the one I should love in this world." — Epiphany',
-              '"You are the cause of my euphoria." — Euphoria',
-              '"Let me love you, just let me love you." — Serendipity',
-              '"Just dance, let\'s move to the rhythm." — Trivia: Just Dance',
-              '"Is this love? I want to stay in your world." — Trivia: Love',
-              '"Alright, let\'s stop this seesaw game." — Trivia: Seesaw',
-              '"I\'m so sick of this fake love." — FAKE LOVE',
-              '"I want it, this love, I want it real love." — DNA',
+              '"Not so perfect, but so beautiful, I\'m the one I should love." — Epiphany',
+              '"When I\'m with you, there is no one else." — The Astronaut',
+              '"You light up my sky like a shooting star." — The Astronaut',
+              '"I want to shine for you like the moon in the night sky." — Moon',
+              '"Hold on tight, bright days are coming." — Running Wild',
+              '"Your smile is my favorite memory." — Tonight',
+              '"Maybe I can\'t touch the sky, but I still want to stretch my hand out." — Awake',
+              '"I want to run just a little more." — Awake',
+              '"I want to hold you in my arms and tell you it\'s okay." — Abyss',
 
-              # --- Jung Kook Solos & Tracks (13) ---
-              '"Look who we are, we are the dreamers, we make it happen." — Dreamers',
-              '"Gather \'round now, look at us, passion is high." — Dreamers',
-              '"Respect the love, the only way, cause we can see it." — Dreamers',
-              '"Still with you, even if the rain falls." — Still With You',
-              '"I need somebody to hold me close tonight." — Somebody',
-              '"Are we yes or no? Don\'t leave me hanging." — Yes or No',
-              '"Finishing my day in a blink of an eye." — My Time',
-              '"All of these lights are colored by you." — My You',
-              '"Seven days a week, loving you right." — Seven',
-              '"Standing next to you through the storm." — Standing Next to You',
-              '"You made me who I am today, thank you." — Begin',
-              '"Standing strong no matter how hard it rains." — Still With You',
-              '"Every moment spent with you is pure magic." — Euphoria',
-
-              # --- Agust D / SUGA Solos (8) ---
+              # --- SUGA / Agust D Solos (10) ---
               '"Don\'t let the past weigh down your future." — Snooze',
+              '"Everything will be okay, dream on." — Snooze',
               '"My memory erased, AMYGDALA, save me." — AMYGDALA',
               '"My music will embrace your pain." — Daechwita',
               '"Past is the past, present is the present." — Haegeum',
               '"Life is a continuous balance of light and dark." — People Pt.2',
-              '"May your journey be filled with quiet peace." — So Far Away',
-              '"Everything is a passing phase, stay strong." — everythingoes',
+              '"Why so serious? So what if you go a bit slow?" — People',
+              '"May your creation be with you until the end of your life." — So Far Away',
+              '"May your trial end in full bloom." — So Far Away',
               '"My passion will outshine any shadow." — Interlude : Shadow',
 
-              # --- Jin Solos (7) ---
-              '"Through the glass, I look at you through the window." — Heart on the Window',
-              '"Don\'t say you love me if you\'re gonna leave." — Don\'t Say You Love Me',
-              '"When I\'m with you, there is no one else." — The Astronaut',
-              '"You light up my sky like a shooting star." — The Astronaut',
-              '"I want to shine for you like the moon." — Moon',
-              '"Hold on tight, bright days are coming." — Running Wild',
-              '"Your smile is my favorite memory." — Tonight',
-
-              # --- Jimin Solos (6) ---
-              '"I\'m gonna take my time, step into the light." — Set Me Free Pt.2',
-              '"Angel, fly higher into the sky with me." — Angel Pt.2',
-              '"Who is my heart waiting for in the dark?" — Who',
-              '"You are my destiny, written in the stars." — Serendipity',
-              '"Keep walking forward, even in the dark." — Promise',
-              '"A gentle breeze carrying my warm heart to you." — With You',
-
-              # --- j-hope Solos (8) ---
-              '"Like a masterpiece, my Mona Lisa." — Mona Lisa',
-              '"Break it down, yeah we killin\' it." — Killin\' It Girl',
-              '"Burn the old, start a new spark." — Arson',
-              '"Listen to your heart, let the rhythm flow." — NEURON',
+              # --- j-hope Solos (10) ---
               '"Hope is the light that leads us out of darkness." — Hope World',
               '"Dance through the pain until you find joy." — Daydream',
               '"Equal love for every soul under the sky." — Equal Sign',
               '"Street lights guide my steps toward the future." — On the street',
+              '"Burn the old, start a new spark." — Arson',
+              '"Listen to your heart, let the rhythm flow." — NEURON',
+              '"Just dance, let\'s move to the rhythm." — Trivia: Just Dance',
+              '"I want it, in my life, the passion to keep moving." — MORE',
+              '"In my blue dreams, I want to hold you." — Blue Side',
+              '"Where is my safety zone in this wild world?" — Safety Zone',
 
-              # --- V Solos (9) ---
-              '"She looks like a blue parrot, would you come fly to me?" — Winter Bear',
+              # --- Jimin Solos (10) ---
+              '"You are the cause of my euphoria, my serendipity." — Serendipity',
+              '"You are my destiny, written in the stars." — Serendipity',
+              '"Keep walking forward, even in the dark." — Promise',
+              '"I want you to be your light, baby, you should be your light." — Promise',
+              '"I\'m gonna take my time, step into the light." — Set Me Free Pt.2',
+              '"Fly away, I won\'t hide anymore." — Set Me Free Pt.2',
+              '"Find the me that was innocent." — Lie',
+              '"Pick your filter, I can be whatever you want." — Filter',
+              '"Who is my heart waiting for in the dark?" — Who',
+              '"A gentle breeze carrying my warm heart to you." — With You',
+
+              # --- V Solos (10) ---
               '"Imagine your face, say hello to me, then all the bad days are nothing." — Winter Bear',
-              '"I\'ll wait for you under the quiet snow." — Winter Bear',
+              '"She looks like a blue parrot, would you come fly to me?" — Winter Bear',
               '"I wish you could love me again." — Love Me Again',
-              '"Rainy days, thinking about you." — Rainy Days',
               '"I still wonder, wonder beautiful story." — Scenery',
-              '"Warm coffee and quiet winter nights with you." — Snow Flower',
               '"A sweet dream that lasts forever in my heart." — Sweet Night',
+              '"I see a smiling child, holding out a hand." — Inner Child',
+              '"We will change, but the bright boy inside will stay." — Inner Child',
+              '"A sound of something breaking, I awake from sleep." — Singularity',
               '"Forever grateful for every moment with you." — FRI(END)S',
+              '"Warm coffee and quiet winter nights with you." — Snow Flower',
 
-              # --- RM Solos (5) ---
-              '"I\'m just a human learning how to love myself." — Persona',
-              '"When it rains, I feel like I\'m not alone." — forever rain',
-              '"The night sky holds all our unspoken words." — seoul',
-              '"Even in solitude, flowers bloom in silence." — Wild Flower',
-              '"Even if you\'re not perfect, you\'re limited edition." — Do You',
-
-              # --- OT7 Meaningful Classics & B-Sides (25) ---
-              '"The dawn right before the sun rises is the darkest." — Tomorrow',
-              '"You\'re too young to let the world break you." — Run',
-              '"Forever, we are young." — Epilogue: Young Forever',
-              '"No season can last forever." — Spring Day',
-              '"Erasing all sad memories, hold each other\'s hands and smile." — 2! 3!',
-              '"Shine, dream, smile. Light up the night." — Mikrokosmos',
-              '"Life goes on... like an echo in the forest. 🌿" — Life Goes On',
-              '"Cause when we fall, we know how to land." — Permission To Dance',
-              '"We were born to be real, not to be perfect." — The Truth Untold',
-              '"I\'m full of love, so I\'ll give it all to you." — Heartbeat',
-              '"Look at the sky, we are flying together." — Wings',
-              '"Don\'t give up, you know you\'re not alone." — A Supplementary Story',
-              '"Even if it\'s a steep hill, keep running forward." — Run BTS',
-              '"My universe is full of your warm light." — My Universe',
-              '"Remember we are always together in spirit." — Take Two',
-              '"Let\'s write our own ending to this story." — For Youth',
-              '"Our voices will reach across the oceans." — Louder than bombs',
-              '"Your existence alone brings peace to my mind." — Best Of Me',
-              '"In the darkness, your love is my guide." — Lights',
-              '"Keep believing in the magic inside you." — Magic Shop',
-              '"Even when the world is quiet, our music plays." — Paradise',
-              '"Don\'t stop, the journey has just begun." — Yet To Come',
-              '"We shine brightest when we are together." — We are Bulletproof: the Eternal',
-              '"Every scar is a reminder of our strength." — Black Swan',
-              '"The desert became an ocean because of us." — Sea'
+              # --- Jung Kook Solos (10) ---
+              '"You are the cause of my euphoria." — Euphoria',
+              '"Take my hands now, you are the cause of my euphoria." — Euphoria',
+              '"Look who we are, we are the dreamers, we make it happen." — Dreamers',
+              '"Gather \'round now, look at us, passion is high." — Dreamers',
+              '"Still with you, even if the rain falls." — Still With You',
+              '"Finishing my day in a blink of an eye." — My Time',
+              '"Seven days a week, loving you right." — Seven',
+              '"Standing next to you through the storm." — Standing Next to You',
+              '"You made me who I am today, thank you." — Begin',
+              '"All of these lights are colored by you." — My You'
           ]
 
-          # Randomly pick 7 iconic lyrics
-          selected = random.sample(lyrics_pool, min(7, len(lyrics_pool)))
+          # Exactly 7 Lyrics
+          selected = random.sample(lyrics_pool, 7)
 
-          # Format and encode URL
+          # Format URL
           encoded_lines = ";".join([urllib.parse.quote(line) for line in selected])
-          new_svg_url = f"https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines={encoded_lines}"
+          new_tag = f'<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines={encoded_lines}" alt="BTS Lyric SVG" />'
 
           # Read README.md
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
 
-          # Replace typing SVG URL
-          pattern = r'https://readme-typing-svg\.demolab\.com\?font=Plus\+Jakarta\+Sans&[^\s"\'\)]+'
-          updated_content = re.sub(pattern, new_svg_url, content)
+          # Strict Regex replace for the entire img tag
+          pattern = r'<img src="https://readme-typing-svg\.demolab\.com\?[^"]+" alt="[^"]+" />'
+          updated_content = re.sub(pattern, new_tag, content)
 
-          # Write back to README.md
+          # Write back
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(updated_content)
           EOF
@@ -181,4 +182,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "💜 Updated 110 Master Lyrics Pool" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "💜 100% Pure BTS OT7 & Solos Motivational Lyrics Pool" && git push)
