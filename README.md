@@ -32,10 +32,10 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.io/Maheen2307" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheen2307&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Maheen's GitHub Stats" />
 </p>
 
 ---
