@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Welcome+to+my+GitHub+profile+!;Building+modern+full-stack+web+applications;Designing+relational+schemas+and+SQL+queries;~+Always+exploring+new+techs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=850&height=50&lines=%22I%20wish%20you%20could%20love%20me%20again.%22%20%E2%80%94%20Love%20Me%20Again;%22I%27m%20just%20a%20human%20learning%20how%20to%20love%20myself.%22%20%E2%80%94%20Persona;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower;%22It%27s%20okay%20to%20stop%2C%20there%27s%20no%20need%20to%20run%20without%20knowing%20why.%22%20%E2%80%94%20Paradise;%22Why%20so%20serious%3F%20So%20what%20if%20you%20go%20a%20bit%20slow%3F%22%20%E2%80%94%20People;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22Past%20is%20the%20past%2C%20present%20is%20the%20present.%22%20%E2%80%94%20Haegeum" alt="BTS Lyric SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
   </a>
 </p>
 
