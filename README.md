@@ -3,7 +3,7 @@
 <h3 align="center">💻 IT Student | Full Stack Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2200&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=Welcome+to+my+digital+universe!+✨;Turning+ideas+into+interactive+full-stack+reality+💻;Integrating+smart+AI+workflows+%26+intelligent+dev+tools+🤖;Architecting+robust+databases+%26+optimized+SQL+queries+🗄️;Forever+curious+%26+exploring+new+tech+frontiers!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&pause=2200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Welcome+to+my+digital+universe!;Turning+ideas+into+interactive+full-stack+reality;Integrating+smart+AI+workflows+and+dev+tools;Architecting+robust+databases+and+SQL+queries;Forever+curious+and+exploring+new+techs!" alt="Typing SVG" />
 </p>
 
 ---
