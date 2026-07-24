@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Maheen</h1>
-
-<h3 align="center">💻 IT Student | Full Stack Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
+<h1 align="center">Hi 👋, I'm Maheen Waseem</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+profile!+✨;IT+Student+%26+Full+Stack+Developer+💻;BTS%2C+K-Dramas+%26+Good+Music+💜;I+love+to+explore+new+techs+%26+build+cool+things!+🚀" alt="Typing SVG" />
 </p>
+
+<h3 align="center">💻 IT Student | Full Stack Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
 ---
 
@@ -51,9 +49,7 @@
 ## 💜 Daily BTS Lyric
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
 </p>
 
 ---
@@ -68,14 +64,6 @@
   <a href="https://github.com/Maheen2307" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maheen2307&label=PROFILE+VIEWS&style=for-the-badge&color=0078d7" alt="Profile Views" />
 </p>
 
 ---
