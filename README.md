@@ -41,7 +41,7 @@
 ## 🔥 Creative Coding Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheen2307&theme=tokyonight&background=0d1117&border=161b22&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheen2307&theme=tokyonight&background=0d1117&border=161b22&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&cache_seconds=1800" alt="GitHub Streak Stats" />
 </p>
 
 ---
