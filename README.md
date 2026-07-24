@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maheen Waseem</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+profile!+✨;IT+Student+%26+Full+Stack+Developer+💻;BTS%2C+K-Dramas+%26+Good+Music+💜;I+love+to+explore+new+techs+%26+build+cool+things!+🚀" alt="Typing SVG" />
-</p>
-
 <h3 align="center">💻 IT Student | Full Stack Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer+%26+UI+Enthusiast;Database+Design+%26+SQL+Specialist;Love+to+learn+and+explore+new+techs!" alt="Typing SVG" />
+</p>
 
 ---
 
