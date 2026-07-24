@@ -3,20 +3,17 @@
 <h3 align="center">💻 IT Student | Full Stack Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&pause=2200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Welcome+to+my+digital+universe!;Turning+ideas+into+interactive+full-stack+reality;Integrating+smart+AI+workflows+and+dev+tools;Architecting+robust+databases+and+SQL+queries;Forever+curious+and+exploring+new+techs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=2200&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+digital+universe!;Turning+ideas+into+interactive+full-stack+reality;Integrating+smart+AI+workflows+and+dev+tools;Architecting+robust+databases+and+SQL+queries;Forever+curious+and+exploring+new+techs!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 **Information Technology Student** (4th Semester)
-- 🚀 Currently working on **Full Stack Web Development** & Interactive UIs
-- 🗄️ Passionate about **Database Design, Data Normalization, & SQL Queries**
-- 💻 Skilled in **C, C++, HTML5, CSS3, JavaScript, SQLite & SQL**
-- 🤖 Integrating **AI Workflows & Smart Dev Tools** into web applications
-- 🌟 Passionate about building modern, real-world full-stack projects
-- 🤝 Open to internships and full-stack/frontend project collaborations
+- 🎓 **BSIT Student** (4th Sem) crafting responsive **Full-Stack Web Apps**
+- 🗄️ Focused on **Database Design & SQL**, proficient in **C, C++, JS & Web Tech**
+- 🤖 Integrating **AI Workflows** & smart dev tools into real-world projects
+- 🤝 Open to **Full-Stack / Frontend Internships** & dev collaborations
 
 ---
 
@@ -49,7 +46,7 @@
 ## 💜 Daily BTS Lyric
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&pause=2500&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
 </p>
 
 ---
