@@ -3,7 +3,7 @@
 <h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Crafting+modern%2C+interactive+full-stack+web+apps+%F0%9F%92%BB;Architecting+efficient+databases+%26+smart+workflows+%F0%9F%97%84%EF%B8%9F;Turning+creative+ideas+into+functional+code+%E2%9C%A8;Driven+by+innovation%2C+curiosity+%26+growth+%F0%9F%8C%9F" alt="Welcome Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Digital+Playground!+%F0%9F%9A%80;Full-Stack+Developer+crafting+seamless+UIs+%26+APIs+%F0%9F%92%BB;Database+Specialist+architecting+smart+data+solutions+%F0%9F%97%84%EF%B8%9F;Merging+creative+design+with+cutting-edge+AI+workflows+%F0%9F%A4%96;Always+on+to+learn+new+techs+%26+build+impactful+projects!+%E2%9C%A8" alt="Creative Profile Intro" />
 </p>
 
 ---
