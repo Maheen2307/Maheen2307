@@ -2,8 +2,8 @@
 
 <h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22A%20gentle%20breeze%20carrying%20my%20warm%20heart%20to%20you.%22%20%E2%80%94%20With%20You;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes;%22Don%27t%20let%20the%20past%20weigh%20down%20your%20future.%22%20%E2%80%94%20Snooze;%22It%27s%20okay%20to%20not%20have%20a%20dream%20as%20long%20as%20you%20have%20moments%20of%20happiness.%22%20%E2%80%94%20Paradise;%22I%20want%20to%20hold%20you%20in%20my%20arms%20and%20tell%20you%20it%27s%20okay.%22%20%E2%80%94%20Abyss;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope" alt="BTS Lyric SVG" />
+​<p align="center">
+<img src="[https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Creative+Tech+Hub+%F0%9F%9A%80;An+aspirational+IT+Student;Passionate+Web+Developer;Building+Smart+AI+Solutions+%F0%9F%A4%96;Simplifying+Data+with+SQL+%F0%9F%97%84%EF%B8%9F;Let's+collaborate+and+create+impact!;Follow+along+my+coding+journey](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Creative+Tech+Hub+%F0%9F%9A%80;An+aspirational+IT+Student;Passionate+Web+Developer;Building+Smart+AI+Solutions+%F0%9F%A4%96;Simplifying+Data+with+SQL+%F0%9F%97%84%EF%B8%9F;Let's+collaborate+and+create+impact!;Follow+along+my+coding+journey)..." alt="Dynamic Intro SVG" />
 </p>
 
 ---
