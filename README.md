@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maheen Waseem</h1>
 
-<h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=IT+Student+%F0%9F%92%BB;|++Web+Developer;|++UI+%26+AI+Enthusiast+%F0%9F%A4%96;|++Database+%26+SQL+Specialist+%F0%9F%97%84%EF%B8%9F;" alt="Tech Profile Subtitle" />
+</h3>
 
 ​<p align="center">
 <img src="[https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Creative+Tech+Hub+%F0%9F%9A%80;An+aspirational+IT+Student;Passionate+Web+Developer;Building+Smart+AI+Solutions+%F0%9F%A4%96;Simplifying+Data+with+SQL+%F0%9F%97%84%EF%B8%9F;Let's+collaborate+and+create+impact!;Follow+along+my+coding+journey](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Creative+Tech+Hub+%F0%9F%9A%80;An+aspirational+IT+Student;Passionate+Web+Developer;Building+Smart+AI+Solutions+%F0%9F%A4%96;Simplifying+Data+with+SQL+%F0%9F%97%84%EF%B8%9F;Let's+collaborate+and+create+impact!;Follow+along+my+coding+journey)..." alt="Dynamic Intro SVG" />
