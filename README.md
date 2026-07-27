@@ -54,7 +54,7 @@
 
 ---
 
-### 🌐 Let's Sync
+### 🌐 Let's Sync !
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
