@@ -3,7 +3,7 @@
 <h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Digital+Playground!+%F0%9F%9A%80;Full-Stack+Developer+crafting+seamless+UIs+%26+APIs+%F0%9F%92%BB;Database+Specialist+architecting+smart+data+solutions+%F0%9F%97%84%EF%B8%9F;Merging+creative+design+with+cutting-edge+AI+workflows+%F0%9F%A4%96;Always+on+to+learn+new+techs+%26+build+impactful+projects!+%E2%9C%A8" alt="Creative Profile Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22A%20sound%20of%20something%20breaking%2C%20I%20awake%20from%20sleep.%22%20%E2%80%94%20Singularity;%22The%20best%20moment%20is%20yet%20to%20come.%22%20%E2%80%94%20Yet%20To%20Come;%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22When%20I%27m%20with%20you%2C%20there%20is%20no%20one%20else.%22%20%E2%80%94%20The%20Astronaut;%22One%20day%20the%20world%20stopped%2C%20but%20let%27s%20take%20a%20deep%20breath%20again.%22%20%E2%80%94%20Life%20Goes%20On;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight" alt="BTS Lyric SVG" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🎶 Melodic Fuel & Daily Code
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22A%20gentle%20breeze%20carrying%20my%20warm%20heart%20to%20you.%22%20%E2%80%94%20With%20You;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes;%22Don%27t%20let%20the%20past%20weigh%20down%20your%20future.%22%20%E2%80%94%20Snooze;%22It%27s%20okay%20to%20not%20have%20a%20dream%20as%20long%20as%20you%20have%20moments%20of%20happiness.%22%20%E2%80%94%20Paradise;%22I%20want%20to%20hold%20you%20in%20my%20arms%20and%20tell%20you%20it%27s%20okay.%22%20%E2%80%94%20Abyss;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22A%20sound%20of%20something%20breaking%2C%20I%20awake%20from%20sleep.%22%20%E2%80%94%20Singularity;%22The%20best%20moment%20is%20yet%20to%20come.%22%20%E2%80%94%20Yet%20To%20Come;%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22When%20I%27m%20with%20you%2C%20there%20is%20no%20one%20else.%22%20%E2%80%94%20The%20Astronaut;%22One%20day%20the%20world%20stopped%2C%20but%20let%27s%20take%20a%20deep%20breath%20again.%22%20%E2%80%94%20Life%20Goes%20On;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight" alt="BTS Lyric SVG" />
 </p>
 
 ---
