@@ -3,7 +3,7 @@
 <h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Every%20scar%20is%20a%20reminder%20of%20our%20strength.%22%20%E2%80%94%20Black%20Swan;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop;%22You%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Digital+Playground!+%F0%9F%9A%80;Full-Stack+Developer+crafting+seamless+UIs+%26+APIs+%F0%9F%92%BB;Database+Specialist+architecting+smart+data+solutions+%F0%9F%97%84%EF%B8%9F;Merging+creative+design+with+cutting-edge+AI+workflows+%F0%9F%A4%96;Always+on+to+learn+new+techs+%26+build+impactful+projects!+%E2%9C%A8" alt="Creative Profile Intro" />
 </p>
 
 ---
