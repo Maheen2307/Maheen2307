@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=42&pause=2000&color=C084FC&center=true&vCenter=true&width=550&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Maheen+Waseem" alt="Hi, I'm Maheen Waseem" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=42&pause=2000&color=C084FC&center=true&vCenter=true&width=550&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Maheen+Waseem" alt="Hello, I'm Maheen Waseem" />
 </p>
 
 <h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
