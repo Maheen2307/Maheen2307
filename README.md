@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Maheen%20Waseem&fontSize=36&fontColor=ffffff&animation=typing" width="100%" alt="Purple Waving Banner with Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=2000&color=C084FC&center=true&vCenter=true&width=550&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Maheen+Waseem" alt="Hi, I'm Maheen Waseem" />
 </p>
 
 <h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
