@@ -3,7 +3,7 @@
 <h3 align="center">💻 IT Student | Web Developer | UI & AI Enthusiast | Database & SQL Specialist 🗄️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22When%20it%20rains%2C%20I%20feel%20like%20I%27m%20not%20alone.%22%20%E2%80%94%20forever%20rain;%22You%20got%20me%2C%20I%20dream%20while%20looking%20at%20you.%22%20%E2%80%94%20Mikrokosmos;%22Hold%20on%20tight%2C%20bright%20days%20are%20coming.%22%20%E2%80%94%20Running%20Wild;%22Still%20with%20you%2C%20even%20if%20the%20rain%20falls.%22%20%E2%80%94%20Still%20With%20You;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Every%20scar%20is%20a%20reminder%20of%20our%20strength.%22%20%E2%80%94%20Black%20Swan;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop;%22You%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes" alt="BTS Lyric SVG" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🎶 Melodic Fuel & Daily Code
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22When%20it%20rains%2C%20I%20feel%20like%20I%27m%20not%20alone.%22%20%E2%80%94%20forever%20rain;%22You%20got%20me%2C%20I%20dream%20while%20looking%20at%20you.%22%20%E2%80%94%20Mikrokosmos;%22Hold%20on%20tight%2C%20bright%20days%20are%20coming.%22%20%E2%80%94%20Running%20Wild;%22Still%20with%20you%2C%20even%20if%20the%20rain%20falls.%22%20%E2%80%94%20Still%20With%20You;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Every%20scar%20is%20a%20reminder%20of%20our%20strength.%22%20%E2%80%94%20Black%20Swan;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop;%22You%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes" alt="BTS Lyric SVG" />
 </p>
 
 ---
