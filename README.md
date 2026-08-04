@@ -43,7 +43,7 @@
 ### 🔥 Fueling the Fire: Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Maheen2307&theme=tokyonight&timezone=Asia%2FKarachi" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheen2307&show_icons=true&theme=tokyonight&count_private=true" alt="Maheen's GitHub Stats" />
 </p>
 
 ---
