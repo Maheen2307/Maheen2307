@@ -43,7 +43,7 @@
 ### 🔥 Fueling the Fire: Streak Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maheen2307&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheen2307&theme=tokyonight&background=0d1117&border=161b22&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&cache_seconds=1800" alt="GitHub Streak Stats" />
 </p>
 
 ---
