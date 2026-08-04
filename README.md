@@ -43,7 +43,7 @@
 ### 🔥 Fueling the Fire: Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Maheen2307&theme=tokyonight&background=0d1117&border=161b22&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&timezone=Asia%2FKarachi&cache_seconds=1800" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Maheen2307&theme=tokyonight&timezone=Asia/Karachi" alt="GitHub Streak Stats" />
 </p>
 
 ---
