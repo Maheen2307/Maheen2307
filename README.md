@@ -43,7 +43,7 @@
 ### 🔥 Fueling the Fire: Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterstefan-patch-1-anuraghazra.vercel.app/api?username=Maheen2307&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maheen2307&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
