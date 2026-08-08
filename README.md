@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%20wish%20you%20could%20love%20me%20again.%22%20%E2%80%94%20Love%20Me%20Again;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower;%22Maybe%20I%20can%27t%20touch%20the%20sky%2C%20but%20I%20still%20want%20to%20stretch%20my%20hand%20out.%22%20%E2%80%94%20Awake;%22The%20me%20of%20yesterday%2C%20today%2C%20and%20tomorrow%2C%20I%27m%20learning%20to%20love%20myself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%20got%20me%2C%20I%20dream%20while%20looking%20at%20you.%22%20%E2%80%94%20Mikrokosmos;%22Who%20is%20my%20heart%20waiting%20for%20in%20the%20dark%3F%22%20%E2%80%94%20Who;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22Moonchild%2C%20don%27t%20cry.%20When%20moon%20rise%2C%20it%27s%20your%20time.%22%20%E2%80%94%20Moonchild;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower;%22My%20passion%20will%20outshine%20any%20shadow.%22%20%E2%80%94%20Interlude%20%3A%20Shadow;%22Every%20scar%20is%20a%20reminder%20of%20our%20strength.%22%20%E2%80%94%20Black%20Swan" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
