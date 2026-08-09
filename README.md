@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%20got%20me%2C%20I%20dream%20while%20looking%20at%20you.%22%20%E2%80%94%20Mikrokosmos;%22Who%20is%20my%20heart%20waiting%20for%20in%20the%20dark%3F%22%20%E2%80%94%20Who;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22Moonchild%2C%20don%27t%20cry.%20When%20moon%20rise%2C%20it%27s%20your%20time.%22%20%E2%80%94%20Moonchild;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower;%22My%20passion%20will%20outshine%20any%20shadow.%22%20%E2%80%94%20Interlude%20%3A%20Shadow;%22Every%20scar%20is%20a%20reminder%20of%20our%20strength.%22%20%E2%80%94%20Black%20Swan" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Hope%20is%20the%20light%20that%20leads%20us%20out%20of%20darkness.%22%20%E2%80%94%20Hope%20World;%22Even%20if%20you%27re%20not%20perfect%2C%20you%27re%20limited%20edition.%22%20%E2%80%94%20Do%20You;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22You%20are%20my%20destiny%2C%20written%20in%20the%20stars.%22%20%E2%80%94%20Serendipity;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower;%22The%20desert%20became%20an%20ocean%20because%20of%20us.%22%20%E2%80%94%20Sea;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
