@@ -17,7 +17,7 @@
 - 🗄️ Passionate about **Database Design, Data Normalization, & SQL Queries**
 - 💻 Skilled in **C, C++, HTML5, CSS3, JavaScript, SQLite & SQL**
 - 🤖 Integrating **AI Workflows & Smart Dev Tools** into web applications
-- 💫 Passionate about building modern, real-world full-stack projects
+- ✨️ Passionate about building modern, real-world full-stack projects
 - 🤝 Open to internships and full-stack/frontend project collaborations
 
 ---
