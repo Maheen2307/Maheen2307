@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%27m%20the%20one%20I%20should%20love%20in%20this%20world.%22%20%E2%80%94%20Epiphany;%22Equal%20love%20for%20every%20soul%20under%20the%20sky.%22%20%E2%80%94%20Equal%20Sign;%22Dance%20through%20the%20pain%20until%20you%20find%20joy.%22%20%E2%80%94%20Daydream;%22When%20it%20rains%2C%20I%20feel%20like%20I%27m%20not%20alone.%22%20%E2%80%94%20forever%20rain;%22We%20shine%20brightest%20when%20we%20are%20together.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal;%22Erasing%20all%20sad%20memories%2C%20hold%20each%20other%27s%20hands%20and%20smile.%22%20%E2%80%94%202%21%203%21;%22The%20desert%20became%20an%20ocean%20because%20of%20us.%22%20%E2%80%94%20Sea" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22The%20dawn%20right%20before%20the%20sun%20rises%20is%20the%20darkest.%22%20%E2%80%94%20Tomorrow;%22All%20of%20these%20lights%20are%20colored%20by%20you.%22%20%E2%80%94%20My%20You;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22We%20are%20born%20in%20the%20moonlight%2C%20not%20a%20fantasy.%22%20%E2%80%94%20Moonchild;%22You%20are%20my%20destiny%2C%20written%20in%20the%20stars.%22%20%E2%80%94%20Serendipity;%22May%20your%20trial%20end%20in%20full%20bloom.%22%20%E2%80%94%20So%20Far%20Away;%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
