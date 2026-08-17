@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22The%20dawn%20right%20before%20the%20sun%20rises%20is%20the%20darkest.%22%20%E2%80%94%20Tomorrow;%22All%20of%20these%20lights%20are%20colored%20by%20you.%22%20%E2%80%94%20My%20You;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22We%20are%20born%20in%20the%20moonlight%2C%20not%20a%20fantasy.%22%20%E2%80%94%20Moonchild;%22You%20are%20my%20destiny%2C%20written%20in%20the%20stars.%22%20%E2%80%94%20Serendipity;%22May%20your%20trial%20end%20in%20full%20bloom.%22%20%E2%80%94%20So%20Far%20Away;%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Take%20my%20hands%20now%2C%20you%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22To%20lose%20your%20path%20is%20the%20way%20to%20find%20that%20path.%22%20%E2%80%94%20Lost;%22Hold%20on%20tight%2C%20bright%20days%20are%20coming.%22%20%E2%80%94%20Running%20Wild;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22A%20gentle%20breeze%20carrying%20my%20warm%20heart%20to%20you.%22%20%E2%80%94%20With%20You;%22Because%20the%20dawn%20before%20sunrise%20is%20darkest%2C%20never%20forget%20the%20you%20of%20today.%22%20%E2%80%94%20Tomorrow" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
