@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22All%20of%20these%20lights%20are%20colored%20by%20you.%22%20%E2%80%94%20My%20You;%22Not%20so%20perfect%2C%20but%20so%20beautiful%2C%20I%27m%20the%20one%20I%20should%20love.%22%20%E2%80%94%20Epiphany;%22I%20see%20a%20smiling%20child%2C%20holding%20out%20a%20hand.%22%20%E2%80%94%20Inner%20Child;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22Gather%20%27round%20now%2C%20look%20at%20us%2C%20passion%20is%20high.%22%20%E2%80%94%20Dreamers;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22Spread%20your%20wings%20and%20fly%20high%20toward%20the%20sky.%22%20%E2%80%94%20Wings;%22I%20see%20a%20smiling%20child%2C%20holding%20out%20a%20hand.%22%20%E2%80%94%20Inner%20Child;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop;%22Even%20in%20solitude%2C%20flowers%20bloom%20in%20silence.%22%20%E2%80%94%20Wild%20Flower;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
