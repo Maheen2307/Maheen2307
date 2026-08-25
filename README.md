@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22Spread%20your%20wings%20and%20fly%20high%20toward%20the%20sky.%22%20%E2%80%94%20Wings;%22I%20see%20a%20smiling%20child%2C%20holding%20out%20a%20hand.%22%20%E2%80%94%20Inner%20Child;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop;%22Even%20in%20solitude%2C%20flowers%20bloom%20in%20silence.%22%20%E2%80%94%20Wild%20Flower;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22In%20my%20blue%20dreams%2C%20I%20want%20to%20hold%20you.%22%20%E2%80%94%20Blue%20Side;%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes;%22May%20your%20creation%20be%20with%20you%20until%20the%20end%20of%20your%20life.%22%20%E2%80%94%20So%20Far%20Away;%22She%20looks%20like%20a%20blue%20parrot%2C%20would%20you%20come%20fly%20to%20me%3F%22%20%E2%80%94%20Winter%20Bear;%22Don%27t%20let%20the%20past%20weigh%20down%20your%20future.%22%20%E2%80%94%20Snooze;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
