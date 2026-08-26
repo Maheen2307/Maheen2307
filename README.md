@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22In%20my%20blue%20dreams%2C%20I%20want%20to%20hold%20you.%22%20%E2%80%94%20Blue%20Side;%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes;%22May%20your%20creation%20be%20with%20you%20until%20the%20end%20of%20your%20life.%22%20%E2%80%94%20So%20Far%20Away;%22She%20looks%20like%20a%20blue%20parrot%2C%20would%20you%20come%20fly%20to%20me%3F%22%20%E2%80%94%20Winter%20Bear;%22Don%27t%20let%20the%20past%20weigh%20down%20your%20future.%22%20%E2%80%94%20Snooze;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Past%20is%20the%20past%2C%20present%20is%20the%20present.%22%20%E2%80%94%20Haegeum;%22Take%20my%20hands%20now%2C%20you%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Don%27t%20kneel%2C%20don%27t%20cry%2C%20keep%20your%20hands%20up%20high%21%22%20%E2%80%94%20Not%20Today;%22Why%20so%20serious%3F%20So%20what%20if%20you%20go%20a%20bit%20slow%3F%22%20%E2%80%94%20People;%22I%27m%20the%20one%20I%20should%20love%20in%20this%20world.%22%20%E2%80%94%20Epiphany;%22Just%20dance%2C%20let%27s%20move%20to%20the%20rhythm.%22%20%E2%80%94%20Trivia%3A%20Just%20Dance;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
