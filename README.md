@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone;%22Standing%20next%20to%20you%20through%20the%20storm.%22%20%E2%80%94%20Standing%20Next%20to%20You;%22Forever%20grateful%20for%20every%20moment%20with%20you.%22%20%E2%80%94%20FRI%28END%29S;%22You%20are%20the%20cause%20of%20my%20euphoria%2C%20my%20serendipity.%22%20%E2%80%94%20Serendipity;%22The%20desert%20became%20an%20ocean%20because%20of%20us.%22%20%E2%80%94%20Sea;%22A%20sound%20of%20something%20breaking%2C%20I%20awake%20from%20sleep.%22%20%E2%80%94%20Singularity;%22My%20passion%20will%20outshine%20any%20shadow.%22%20%E2%80%94%20Interlude%20%3A%20Shadow" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope;%22Even%20in%20solitude%2C%20flowers%20bloom%20in%20silence.%22%20%E2%80%94%20Wild%20Flower;%22Seven%20days%20a%20week%2C%20loving%20you%20right.%22%20%E2%80%94%20Seven;%22The%20best%20moment%20is%20yet%20to%20come.%22%20%E2%80%94%20Yet%20To%20Come;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22I%27m%20just%20a%20human%20learning%20how%20to%20love%20myself.%22%20%E2%80%94%20Persona" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
