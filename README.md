@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope;%22Even%20in%20solitude%2C%20flowers%20bloom%20in%20silence.%22%20%E2%80%94%20Wild%20Flower;%22Seven%20days%20a%20week%2C%20loving%20you%20right.%22%20%E2%80%94%20Seven;%22The%20best%20moment%20is%20yet%20to%20come.%22%20%E2%80%94%20Yet%20To%20Come;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22I%27m%20just%20a%20human%20learning%20how%20to%20love%20myself.%22%20%E2%80%94%20Persona" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22In%20my%20blue%20dreams%2C%20I%20want%20to%20hold%20you.%22%20%E2%80%94%20Blue%20Side;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Our%20voices%20will%20reach%20across%20the%20oceans.%22%20%E2%80%94%20Louder%20than%20bombs;%22Where%20there%20is%20hope%2C%20there%20is%20always%20hardship.%22%20%E2%80%94%20Sea;%22Spread%20your%20wings%20and%20fly%20high%20toward%20the%20sky.%22%20%E2%80%94%20Wings;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
