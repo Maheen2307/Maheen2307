@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22In%20my%20blue%20dreams%2C%20I%20want%20to%20hold%20you.%22%20%E2%80%94%20Blue%20Side;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Our%20voices%20will%20reach%20across%20the%20oceans.%22%20%E2%80%94%20Louder%20than%20bombs;%22Where%20there%20is%20hope%2C%20there%20is%20always%20hardship.%22%20%E2%80%94%20Sea;%22Spread%20your%20wings%20and%20fly%20high%20toward%20the%20sky.%22%20%E2%80%94%20Wings;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Hope%20is%20the%20light%20that%20leads%20us%20out%20of%20darkness.%22%20%E2%80%94%20Hope%20World;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22In%20my%20blue%20dreams%2C%20I%20want%20to%20hold%20you.%22%20%E2%80%94%20Blue%20Side;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22If%20you%20can%27t%20fly%2C%20then%20run.%20Today%20we%20will%20survive.%22%20%E2%80%94%20Not%20Today;%22We%20gonna%20touch%20the%20sky%2C%20before%20the%20day%20we%20die.%22%20%E2%80%94%20Yet%20To%20Come;%22All%20of%20these%20lights%20are%20colored%20by%20you.%22%20%E2%80%94%20My%20You" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
