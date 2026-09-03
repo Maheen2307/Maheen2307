@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Hope%20is%20the%20light%20that%20leads%20us%20out%20of%20darkness.%22%20%E2%80%94%20Hope%20World;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22In%20my%20blue%20dreams%2C%20I%20want%20to%20hold%20you.%22%20%E2%80%94%20Blue%20Side;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22If%20you%20can%27t%20fly%2C%20then%20run.%20Today%20we%20will%20survive.%22%20%E2%80%94%20Not%20Today;%22We%20gonna%20touch%20the%20sky%2C%20before%20the%20day%20we%20die.%22%20%E2%80%94%20Yet%20To%20Come;%22All%20of%20these%20lights%20are%20colored%20by%20you.%22%20%E2%80%94%20My%20You" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%20want%20it%2C%20in%20my%20life%2C%20the%20passion%20to%20keep%20moving.%22%20%E2%80%94%20MORE;%22Don%27t%20give%20up%2C%20you%20know%20you%27re%20not%20alone.%22%20%E2%80%94%20A%20Supplementary%20Story;%22Hope%20is%20the%20light%20that%20leads%20us%20out%20of%20darkness.%22%20%E2%80%94%20Hope%20World;%22Dance%20through%20the%20pain%20until%20you%20find%20joy.%22%20%E2%80%94%20Daydream;%22Every%20scar%20is%20a%20reminder%20of%20our%20strength.%22%20%E2%80%94%20Black%20Swan;%22Hold%20on%20tight%2C%20bright%20days%20are%20coming.%22%20%E2%80%94%20Running%20Wild;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
