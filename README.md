@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22You%20light%20up%20my%20sky%20like%20a%20shooting%20star.%22%20%E2%80%94%20The%20Astronaut;%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Our%20voices%20will%20reach%20across%20the%20oceans.%22%20%E2%80%94%20Louder%20than%20bombs;%22In%20the%20middle%20of%20the%20road%2C%20don%27t%20stop%2C%20just%20keep%20going.%22%20%E2%80%94%20So%20What;%22May%20your%20trial%20end%20in%20full%20bloom.%22%20%E2%80%94%20So%20Far%20Away;%22We%20gonna%20touch%20the%20sky%2C%20before%20the%20day%20we%20die.%22%20%E2%80%94%20Yet%20To%20Come" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA;%22You%27re%20too%20young%20to%20let%20the%20world%20break%20you.%22%20%E2%80%94%20Run;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22Just%20dance%2C%20let%27s%20move%20to%20the%20rhythm.%22%20%E2%80%94%20Trivia%3A%20Just%20Dance;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
