@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA;%22You%27re%20too%20young%20to%20let%20the%20world%20break%20you.%22%20%E2%80%94%20Run;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22Just%20dance%2C%20let%27s%20move%20to%20the%20rhythm.%22%20%E2%80%94%20Trivia%3A%20Just%20Dance;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22It%27s%20okay%20to%20stop%2C%20there%27s%20no%20need%20to%20run%20without%20knowing%20why.%22%20%E2%80%94%20Paradise;%22Even%20if%20you%27re%20not%20perfect%2C%20you%27re%20limited%20edition.%22%20%E2%80%94%20Do%20You;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22She%20looks%20like%20a%20blue%20parrot%2C%20would%20you%20come%20fly%20to%20me%3F%22%20%E2%80%94%20Winter%20Bear;%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Because%20the%20dawn%20before%20sunrise%20is%20darkest%2C%20never%20forget%20the%20you%20of%20today.%22%20%E2%80%94%20Tomorrow" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
