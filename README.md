@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Maybe%20I%20can%27t%20touch%20the%20sky%2C%20but%20I%20still%20want%20to%20stretch%20my%20hand%20out.%22%20%E2%80%94%20Awake;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Your%20existence%20alone%20brings%20peace%20to%20my%20mind.%22%20%E2%80%94%20Best%20Of%20Me;%22We%20will%20change%2C%20but%20the%20bright%20boy%20inside%20will%20stay.%22%20%E2%80%94%20Inner%20Child;%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone;%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22The%20dawn%20right%20before%20the%20sun%20rises%20is%20the%20darkest.%22%20%E2%80%94%20Tomorrow" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%20wish%20you%20could%20love%20me%20again.%22%20%E2%80%94%20Love%20Me%20Again;%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22Past%20is%20the%20past%2C%20present%20is%20the%20present.%22%20%E2%80%94%20Haegeum;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22A%20sweet%20dream%20that%20lasts%20forever%20in%20my%20heart.%22%20%E2%80%94%20Sweet%20Night;%22Everything%20will%20be%20okay%2C%20dream%20on.%22%20%E2%80%94%20Snooze" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
