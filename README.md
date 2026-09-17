@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%20wish%20you%20could%20love%20me%20again.%22%20%E2%80%94%20Love%20Me%20Again;%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22Past%20is%20the%20past%2C%20present%20is%20the%20present.%22%20%E2%80%94%20Haegeum;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22A%20sweet%20dream%20that%20lasts%20forever%20in%20my%20heart.%22%20%E2%80%94%20Sweet%20Night;%22Everything%20will%20be%20okay%2C%20dream%20on.%22%20%E2%80%94%20Snooze" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Don%E2%80%99t%20try%20too%20hard%2C%20it%E2%80%99s%20okay%20to%20lose.%22%20%E2%80%94%20Fire;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22Seven%20days%20a%20week%2C%20loving%20you%20right.%22%20%E2%80%94%20Seven;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22Spread%20your%20wings%20and%20fly%20high%20toward%20the%20sky.%22%20%E2%80%94%20Wings;%22Don%27t%20give%20up%2C%20you%20know%20you%27re%20not%20alone.%22%20%E2%80%94%20A%20Supplementary%20Story" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
