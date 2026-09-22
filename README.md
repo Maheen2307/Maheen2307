@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Equal%20love%20for%20every%20soul%20under%20the%20sky.%22%20%E2%80%94%20Equal%20Sign;%22May%20your%20trial%20end%20in%20full%20bloom.%22%20%E2%80%94%20So%20Far%20Away;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22On%20days%20I%20hate%20being%20myself%2C%20I%20make%20a%20door%20in%20my%20heart.%22%20%E2%80%94%20Magic%20Shop;%22I%27m%20just%20a%20human%20learning%20how%20to%20love%20myself.%22%20%E2%80%94%20Persona;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Standing%20next%20to%20you%20through%20the%20storm.%22%20%E2%80%94%20Standing%20Next%20to%20You;%22I%27m%20full%20of%20love%2C%20so%20I%27ll%20give%20it%20all%20to%20you.%22%20%E2%80%94%20Heartbeat;%22When%20it%20rains%2C%20I%20feel%20like%20I%27m%20not%20alone.%22%20%E2%80%94%20forever%20rain;%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22We%20shine%20brightest%20when%20we%20are%20together.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal;%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone;%22Hold%20on%20tight%2C%20bright%20days%20are%20coming.%22%20%E2%80%94%20Running%20Wild" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
