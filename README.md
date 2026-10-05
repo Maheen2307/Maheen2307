@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22We%20were%20only%20seven%2C%20but%20we%20have%20you%20all%20now.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal;%22I%20see%20a%20smiling%20child%2C%20holding%20out%20a%20hand.%22%20%E2%80%94%20Inner%20Child;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22Where%20there%20is%20hope%2C%20there%20is%20always%20hardship.%22%20%E2%80%94%20Sea;%22In%20the%20middle%20of%20the%20road%2C%20don%27t%20stop%2C%20just%20keep%20going.%22%20%E2%80%94%20So%20What;%22The%20dawn%20right%20before%20the%20sun%20rises%20is%20the%20darkest.%22%20%E2%80%94%20Tomorrow" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22Fly%20away%2C%20I%20won%27t%20hide%20anymore.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22A%20sweet%20dream%20that%20lasts%20forever%20in%20my%20heart.%22%20%E2%80%94%20Sweet%20Night;%22Erasing%20all%20sad%20memories%2C%20hold%20each%20other%27s%20hands%20and%20smile.%22%20%E2%80%94%202%21%203%21;%22Even%20if%20it%27s%20a%20steep%20hill%2C%20keep%20running%20forward.%22%20%E2%80%94%20Run%20BTS;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
