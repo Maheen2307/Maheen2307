@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22Fly%20away%2C%20I%20won%27t%20hide%20anymore.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22A%20sweet%20dream%20that%20lasts%20forever%20in%20my%20heart.%22%20%E2%80%94%20Sweet%20Night;%22Erasing%20all%20sad%20memories%2C%20hold%20each%20other%27s%20hands%20and%20smile.%22%20%E2%80%94%202%21%203%21;%22Even%20if%20it%27s%20a%20steep%20hill%2C%20keep%20running%20forward.%22%20%E2%80%94%20Run%20BTS;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Standing%20next%20to%20you%20through%20the%20storm.%22%20%E2%80%94%20Standing%20Next%20to%20You;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Look%20who%20we%20are%2C%20we%20are%20the%20dreamers%2C%20we%20make%20it%20happen.%22%20%E2%80%94%20Dreamers;%22When%20it%20rains%2C%20I%20feel%20like%20I%27m%20not%20alone.%22%20%E2%80%94%20forever%20rain;%22Keep%20walking%20forward%2C%20even%20in%20the%20dark.%22%20%E2%80%94%20Promise;%22Past%20is%20the%20past%2C%20present%20is%20the%20present.%22%20%E2%80%94%20Haegeum;%22Take%20my%20hands%20now%2C%20you%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
