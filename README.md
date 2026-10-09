@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Street%20lights%20guide%20my%20steps%20toward%20the%20future.%22%20%E2%80%94%20On%20the%20street;%22A%20sweet%20dream%20that%20lasts%20forever%20in%20my%20heart.%22%20%E2%80%94%20Sweet%20Night;%22Don%27t%20kneel%2C%20don%27t%20cry%2C%20keep%20your%20hands%20up%20high%21%22%20%E2%80%94%20Not%20Today;%22Don%E2%80%99t%20try%20too%20hard%2C%20it%E2%80%99s%20okay%20to%20lose.%22%20%E2%80%94%20Fire;%22Imagine%20your%20face%2C%20say%20hello%20to%20me%2C%20then%20all%20the%20bad%20days%20are%20nothing.%22%20%E2%80%94%20Winter%20Bear;%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22The%20best%20moment%20is%20yet%20to%20come.%22%20%E2%80%94%20Yet%20To%20Come;%22Street%20lights%20guide%20my%20steps%20toward%20the%20future.%22%20%E2%80%94%20On%20the%20street;%22Equal%20love%20for%20every%20soul%20under%20the%20sky.%22%20%E2%80%94%20Equal%20Sign;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22I%20still%20wonder%2C%20wonder%20beautiful%20story.%22%20%E2%80%94%20Scenery" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
