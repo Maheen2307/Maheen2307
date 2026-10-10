@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22The%20best%20moment%20is%20yet%20to%20come.%22%20%E2%80%94%20Yet%20To%20Come;%22Street%20lights%20guide%20my%20steps%20toward%20the%20future.%22%20%E2%80%94%20On%20the%20street;%22Equal%20love%20for%20every%20soul%20under%20the%20sky.%22%20%E2%80%94%20Equal%20Sign;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight;%22I%20want%20you%20to%20be%20your%20light%2C%20baby%2C%20you%20should%20be%20your%20light.%22%20%E2%80%94%20Promise;%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22I%20still%20wonder%2C%20wonder%20beautiful%20story.%22%20%E2%80%94%20Scenery" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22When%20it%20rains%2C%20I%20feel%20like%20I%27m%20not%20alone.%22%20%E2%80%94%20forever%20rain;%22In%20the%20middle%20of%20the%20road%2C%20don%27t%20stop%2C%20just%20keep%20going.%22%20%E2%80%94%20So%20What;%22Keep%20walking%20forward%2C%20even%20in%20the%20dark.%22%20%E2%80%94%20Promise;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower;%22Don%27t%20give%20up%2C%20you%20know%20you%27re%20not%20alone.%22%20%E2%80%94%20A%20Supplementary%20Story;%22Why%20so%20serious%3F%20So%20what%20if%20you%20go%20a%20bit%20slow%3F%22%20%E2%80%94%20People" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
