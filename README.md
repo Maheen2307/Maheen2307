@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Seven%20days%20a%20week%2C%20loving%20you%20right.%22%20%E2%80%94%20Seven;%22I%20wish%20you%20could%20love%20me%20again.%22%20%E2%80%94%20Love%20Me%20Again;%22A%20sound%20of%20something%20breaking%2C%20I%20awake%20from%20sleep.%22%20%E2%80%94%20Singularity;%22Take%20my%20hands%20now%2C%20you%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22The%20me%20of%20yesterday%2C%20today%2C%20and%20tomorrow%2C%20I%27m%20learning%20to%20love%20myself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22To%20lose%20your%20path%20is%20the%20way%20to%20find%20that%20path.%22%20%E2%80%94%20Lost;%22Past%20is%20the%20past%2C%20present%20is%20the%20present.%22%20%E2%80%94%20Haegeum" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Dance%20through%20the%20pain%20until%20you%20find%20joy.%22%20%E2%80%94%20Daydream;%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22We%20are%20born%20in%20the%20moonlight%2C%20not%20a%20fantasy.%22%20%E2%80%94%20Moonchild;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
