@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Dance%20through%20the%20pain%20until%20you%20find%20joy.%22%20%E2%80%94%20Daydream;%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22We%20are%20born%20in%20the%20moonlight%2C%20not%20a%20fantasy.%22%20%E2%80%94%20Moonchild;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone;%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%27ve%20shown%20me%20I%20have%20reasons%20I%20should%20love%20myself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22My%20passion%20will%20outshine%20any%20shadow.%22%20%E2%80%94%20Interlude%20%3A%20Shadow;%22Take%20my%20hands%20now%2C%20you%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Erasing%20all%20sad%20memories%2C%20hold%20each%20other%27s%20hands%20and%20smile.%22%20%E2%80%94%202%21%203%21;%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22Pick%20your%20filter%2C%20I%20can%20be%20whatever%20you%20want.%22%20%E2%80%94%20Filter;%22Imagine%20your%20face%2C%20say%20hello%20to%20me%2C%20then%20all%20the%20bad%20days%20are%20nothing.%22%20%E2%80%94%20Winter%20Bear" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
