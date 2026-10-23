@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22The%20me%20of%20yesterday%2C%20today%2C%20and%20tomorrow%2C%20I%27m%20learning%20to%20love%20myself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22Where%20there%20is%20hope%2C%20there%20is%20always%20hardship.%22%20%E2%80%94%20Sea;%22Our%20voices%20will%20reach%20across%20the%20oceans.%22%20%E2%80%94%20Louder%20than%20bombs;%22Even%20if%20you%27re%20not%20perfect%2C%20you%27re%20limited%20edition.%22%20%E2%80%94%20Do%20You;%22In%20my%20blue%20dreams%2C%20I%20want%20to%20hold%20you.%22%20%E2%80%94%20Blue%20Side;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%27re%20too%20young%20to%20let%20the%20world%20break%20you.%22%20%E2%80%94%20Run;%22When%20I%27m%20with%20you%2C%20there%20is%20no%20one%20else.%22%20%E2%80%94%20The%20Astronaut;%22I%20see%20a%20smiling%20child%2C%20holding%20out%20a%20hand.%22%20%E2%80%94%20Inner%20Child;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower;%22I%27m%20just%20a%20human%20learning%20how%20to%20love%20myself.%22%20%E2%80%94%20Persona;%22Why%20so%20serious%3F%20So%20what%20if%20you%20go%20a%20bit%20slow%3F%22%20%E2%80%94%20People" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
