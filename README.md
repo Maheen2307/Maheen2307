@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22Everything%20will%20be%20okay%2C%20dream%20on.%22%20%E2%80%94%20Snooze;%22I%20want%20to%20hold%20you%20in%20my%20arms%20and%20tell%20you%20it%27s%20okay.%22%20%E2%80%94%20Abyss;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight;%22Don%27t%20kneel%2C%20don%27t%20cry%2C%20keep%20your%20hands%20up%20high%21%22%20%E2%80%94%20Not%20Today;%22Who%20is%20my%20heart%20waiting%20for%20in%20the%20dark%3F%22%20%E2%80%94%20Who;%22Dance%20through%20the%20pain%20until%20you%20find%20joy.%22%20%E2%80%94%20Daydream" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Where%20is%20my%20safety%20zone%20in%20this%20wild%20world%3F%22%20%E2%80%94%20Safety%20Zone;%22You%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Maybe%20I%20can%27t%20touch%20the%20sky%2C%20but%20I%20still%20want%20to%20stretch%20my%20hand%20out.%22%20%E2%80%94%20Awake;%22We%20gonna%20touch%20the%20sky%2C%20before%20the%20day%20we%20die.%22%20%E2%80%94%20Yet%20To%20Come;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight;%22Let%27s%20write%20our%20own%20ending%20to%20this%20story.%22%20%E2%80%94%20For%20Youth;%22Why%20so%20serious%3F%20So%20what%20if%20you%20go%20a%20bit%20slow%3F%22%20%E2%80%94%20People" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
