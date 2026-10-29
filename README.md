@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22I%20see%20a%20smiling%20child%2C%20holding%20out%20a%20hand.%22%20%E2%80%94%20Inner%20Child;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower;%22It%27s%20okay%2C%20even%20if%20it%27s%20not%20perfect%2C%20it%27s%20still%20beautiful.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22A%20sweet%20dream%20that%20lasts%20forever%20in%20my%20heart.%22%20%E2%80%94%20Sweet%20Night;%22Don%E2%80%99t%20try%20too%20hard%2C%20it%E2%80%99s%20okay%20to%20lose.%22%20%E2%80%94%20Fire;%22Every%20scar%20is%20a%20reminder%20of%20our%20strength.%22%20%E2%80%94%20Black%20Swan" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22You%20are%20the%20cause%20of%20my%20euphoria%2C%20my%20serendipity.%22%20%E2%80%94%20Serendipity;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Everything%20will%20be%20okay%2C%20dream%20on.%22%20%E2%80%94%20Snooze;%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22May%20your%20trial%20end%20in%20full%20bloom.%22%20%E2%80%94%20So%20Far%20Away" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
