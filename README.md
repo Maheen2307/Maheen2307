@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22You%20are%20the%20cause%20of%20my%20euphoria%2C%20my%20serendipity.%22%20%E2%80%94%20Serendipity;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22Everything%20will%20be%20okay%2C%20dream%20on.%22%20%E2%80%94%20Snooze;%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22May%20your%20trial%20end%20in%20full%20bloom.%22%20%E2%80%94%20So%20Far%20Away" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22I%27m%20the%20one%20I%20should%20love%20in%20this%20world.%22%20%E2%80%94%20Epiphany;%22Still%20with%20you%2C%20even%20if%20the%20rain%20falls.%22%20%E2%80%94%20Still%20With%20You;%22If%20you%20can%27t%20fly%2C%20then%20run.%20Today%20we%20will%20survive.%22%20%E2%80%94%20Not%20Today;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
