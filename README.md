@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Everything%20passes%2C%20just%20like%20everything%20goes.%22%20%E2%80%94%20everythingoes;%22Reject%20rejection%21%20I%20was%20always%20too%20much.%22%20%E2%80%94%20Dope;%22Find%20the%20me%20that%20was%20innocent.%22%20%E2%80%94%20Lie;%22I%27m%20the%20one%20I%20should%20love%20in%20this%20world.%22%20%E2%80%94%20Epiphany;%22Still%20with%20you%2C%20even%20if%20the%20rain%20falls.%22%20%E2%80%94%20Still%20With%20You;%22If%20you%20can%27t%20fly%2C%20then%20run.%20Today%20we%20will%20survive.%22%20%E2%80%94%20Not%20Today;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22In%20the%20middle%20of%20the%20road%2C%20don%27t%20stop%2C%20just%20keep%20going.%22%20%E2%80%94%20So%20What;%22Keep%20walking%20forward%2C%20even%20in%20the%20dark.%22%20%E2%80%94%20Promise;%22I%27m%20the%20one%20I%20should%20love%20in%20this%20world.%22%20%E2%80%94%20Epiphany;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22We%20shine%20brightest%20when%20we%20are%20together.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
