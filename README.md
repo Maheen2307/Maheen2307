@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2;%22In%20the%20middle%20of%20the%20road%2C%20don%27t%20stop%2C%20just%20keep%20going.%22%20%E2%80%94%20So%20What;%22Keep%20walking%20forward%2C%20even%20in%20the%20dark.%22%20%E2%80%94%20Promise;%22I%27m%20the%20one%20I%20should%20love%20in%20this%20world.%22%20%E2%80%94%20Epiphany;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22We%20shine%20brightest%20when%20we%20are%20together.%22%20%E2%80%94%20We%20are%20Bulletproof%3A%20the%20Eternal" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Take%20my%20hands%20now%2C%20you%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22Your%20existence%20alone%20brings%20peace%20to%20my%20mind.%22%20%E2%80%94%20Best%20Of%20Me;%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22Still%20with%20you%2C%20even%20if%20the%20rain%20falls.%22%20%E2%80%94%20Still%20With%20You;%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
