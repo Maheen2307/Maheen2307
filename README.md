@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Take%20my%20hands%20now%2C%20you%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22You%20can%27t%20stop%20me%20loving%20myself.%22%20%E2%80%94%20IDOL;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22Your%20existence%20alone%20brings%20peace%20to%20my%20mind.%22%20%E2%80%94%20Best%20Of%20Me;%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22Still%20with%20you%2C%20even%20if%20the%20rain%20falls.%22%20%E2%80%94%20Still%20With%20You;%22My%20memory%20erased%2C%20AMYGDALA%2C%20save%20me.%22%20%E2%80%94%20AMYGDALA" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22I%27m%20full%20of%20love%2C%20so%20I%27ll%20give%20it%20all%20to%20you.%22%20%E2%80%94%20Heartbeat;%22I%20want%20to%20hold%20you%20in%20my%20arms%20and%20tell%20you%20it%27s%20okay.%22%20%E2%80%94%20Abyss;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22A%20gentle%20breeze%20carrying%20my%20warm%20heart%20to%20you.%22%20%E2%80%94%20With%20You;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
