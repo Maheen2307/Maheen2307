@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22I%27m%20full%20of%20love%2C%20so%20I%27ll%20give%20it%20all%20to%20you.%22%20%E2%80%94%20Heartbeat;%22I%20want%20to%20hold%20you%20in%20my%20arms%20and%20tell%20you%20it%27s%20okay.%22%20%E2%80%94%20Abyss;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22A%20gentle%20breeze%20carrying%20my%20warm%20heart%20to%20you.%22%20%E2%80%94%20With%20You;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22I%27m%20gonna%20take%20my%20time%2C%20step%20into%20the%20light.%22%20%E2%80%94%20Set%20Me%20Free%20Pt.2" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22I%20wish%20you%20could%20love%20me%20again.%22%20%E2%80%94%20Love%20Me%20Again;%22Dance%20through%20the%20pain%20until%20you%20find%20joy.%22%20%E2%80%94%20Daydream;%22It%E2%80%99s%20okay%2C%20now%20count%201%2C%202%2C%203%20and%20forget.%20Erase%20all%20sad%20memories.%22%20%E2%80%94%202%21%203%21;%22I%20still%20wonder%2C%20wonder%20beautiful%20story.%22%20%E2%80%94%20Scenery;%22I%20want%20to%20run%20just%20a%20little%20more.%22%20%E2%80%94%20Awake;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
