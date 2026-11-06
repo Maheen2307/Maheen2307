@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Gather%20%27round%20now%2C%20look%20at%20us%2C%20passion%20is%20high.%22%20%E2%80%94%20Dreamers;%22Your%20existence%20alone%20brings%20peace%20to%20my%20mind.%22%20%E2%80%94%20Best%20Of%20Me;%22I%27m%20full%20of%20love%2C%20so%20I%27ll%20give%20it%20all%20to%20you.%22%20%E2%80%94%20Heartbeat;%22Finishing%20my%20day%20in%20a%20blink%20of%20an%20eye.%22%20%E2%80%94%20My%20Time;%22No%20season%20can%20last%20forever%2C%20no%20winter%20lasts%20forever.%22%20%E2%80%94%20Spring%20Day;%22Imagine%20your%20face%2C%20say%20hello%20to%20me%2C%20then%20all%20the%20bad%20days%20are%20nothing.%22%20%E2%80%94%20Winter%20Bear;%22Standing%20next%20to%20you%20through%20the%20storm.%22%20%E2%80%94%20Standing%20Next%20to%20You" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22Even%20if%20it%27s%20a%20steep%20hill%2C%20keep%20running%20forward.%22%20%E2%80%94%20Run%20BTS;%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
