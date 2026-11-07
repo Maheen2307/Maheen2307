@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22I%27m%20fine%2C%20all%20of%20my%20pain%20is%20gone.%22%20%E2%80%94%20I%27m%20Fine;%22Even%20if%20it%27s%20a%20steep%20hill%2C%20keep%20running%20forward.%22%20%E2%80%94%20Run%20BTS;%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Warm%20coffee%20and%20quiet%20winter%20nights%20with%20you.%22%20%E2%80%94%20Snow%20Flower" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22It%E2%80%99s%20okay%2C%20now%20count%201%2C%202%2C%203%20and%20forget.%20Erase%20all%20sad%20memories.%22%20%E2%80%94%202%21%203%21;%22Just%20dance%2C%20let%27s%20move%20to%20the%20rhythm.%22%20%E2%80%94%20Trivia%3A%20Just%20Dance;%22When%20it%20rains%2C%20I%20feel%20like%20I%27m%20not%20alone.%22%20%E2%80%94%20forever%20rain;%22A%20gentle%20breeze%20carrying%20my%20warm%20heart%20to%20you.%22%20%E2%80%94%20With%20You;%22You%20are%20the%20cause%20of%20my%20euphoria%2C%20my%20serendipity.%22%20%E2%80%94%20Serendipity;%22Shine%2C%20dream%2C%20smile.%20Light%20up%20the%20night.%22%20%E2%80%94%20Mikrokosmos;%22Who%20is%20my%20heart%20waiting%20for%20in%20the%20dark%3F%22%20%E2%80%94%20Who" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
