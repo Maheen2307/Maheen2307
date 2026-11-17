@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22You%27ve%20shown%20me%20I%20have%20reasons%20I%20should%20love%20myself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Hold%20on%20tight%2C%20bright%20days%20are%20coming.%22%20%E2%80%94%20Running%20Wild;%22Imagine%20your%20face%2C%20say%20hello%20to%20me%2C%20then%20all%20the%20bad%20days%20are%20nothing.%22%20%E2%80%94%20Winter%20Bear;%22Your%20smile%20is%20my%20favorite%20memory.%22%20%E2%80%94%20Tonight;%22You%20are%20the%20cause%20of%20my%20euphoria.%22%20%E2%80%94%20Euphoria;%22Don%27t%20give%20up%2C%20you%20know%20you%27re%20not%20alone.%22%20%E2%80%94%20A%20Supplementary%20Story;%22I%20wish%20I%20could%20love%20myself.%22%20%E2%80%94%20Reflection" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Everything%20will%20be%20okay%2C%20dream%20on.%22%20%E2%80%94%20Snooze;%22When%20my%20fury%20turns%20to%20flame%2C%20light%20the%20flower.%22%20%E2%80%94%20Wild%20Flower;%22Love%20myself%2C%20love%20yourself.%22%20%E2%80%94%20Answer%3A%20Love%20Myself;%22Burn%20the%20old%2C%20start%20a%20new%20spark.%22%20%E2%80%94%20Arson;%22Not%20so%20perfect%2C%20but%20so%20beautiful%2C%20I%27m%20the%20one%20I%20should%20love.%22%20%E2%80%94%20Epiphany;%22I%20see%20a%20smiling%20child%2C%20holding%20out%20a%20hand.%22%20%E2%80%94%20Inner%20Child;%22A%20sweet%20dream%20that%20lasts%20forever%20in%20my%20heart.%22%20%E2%80%94%20Sweet%20Night" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
