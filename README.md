@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22A%20gentle%20breeze%20carrying%20my%20warm%20heart%20to%20you.%22%20%E2%80%94%20With%20You;%22If%20you%20can%27t%20fly%2C%20then%20run.%20Today%20we%20will%20survive.%22%20%E2%80%94%20Not%20Today;%22Listen%20to%20your%20heart%2C%20let%20the%20rhythm%20flow.%22%20%E2%80%94%20NEURON;%22Keep%20walking%20forward%2C%20even%20in%20the%20dark.%22%20%E2%80%94%20Promise;%22You%20got%20me%2C%20I%20dream%20while%20looking%20at%20you.%22%20%E2%80%94%20Mikrokosmos;%22You%27re%20too%20young%20to%20let%20the%20world%20break%20you.%22%20%E2%80%94%20Run;%22The%20dawn%20right%20before%20the%20sun%20rises%20is%20the%20darkest.%22%20%E2%80%94%20Tomorrow" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Even%20if%20I%20fall%20again%2C%20I%27m%20okay.%22%20%E2%80%94%20I%27m%20Fine;%22Just%20dance%2C%20let%27s%20move%20to%20the%20rhythm.%22%20%E2%80%94%20Trivia%3A%20Just%20Dance;%22On%20days%20I%20hate%20being%20myself%2C%20I%20make%20a%20door%20in%20my%20heart.%22%20%E2%80%94%20Magic%20Shop;%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22We%20are%20born%20in%20the%20moonlight%2C%20not%20a%20fantasy.%22%20%E2%80%94%20Moonchild;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
