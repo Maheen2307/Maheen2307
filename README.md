@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- LYRICS_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22Even%20if%20I%20fall%20again%2C%20I%27m%20okay.%22%20%E2%80%94%20I%27m%20Fine;%22Just%20dance%2C%20let%27s%20move%20to%20the%20rhythm.%22%20%E2%80%94%20Trivia%3A%20Just%20Dance;%22On%20days%20I%20hate%20being%20myself%2C%20I%20make%20a%20door%20in%20my%20heart.%22%20%E2%80%94%20Magic%20Shop;%22You%20made%20me%20who%20I%20am%20today%2C%20thank%20you.%22%20%E2%80%94%20Begin;%22We%20are%20born%20in%20the%20moonlight%2C%20not%20a%20fantasy.%22%20%E2%80%94%20Moonchild;%22Life%20is%20a%20continuous%20balance%20of%20light%20and%20dark.%22%20%E2%80%94%20People%20Pt.2;%22Keep%20believing%20in%20the%20magic%20inside%20you.%22%20%E2%80%94%20Magic%20Shop" alt="BTS Lyric SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&pause=2500&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%22My%20music%20will%20embrace%20your%20pain.%22%20%E2%80%94%20Daechwita;%22May%20your%20trial%20end%20in%20full%20bloom.%22%20%E2%80%94%20So%20Far%20Away;%22We%20were%20born%20to%20be%20real%2C%20not%20to%20be%20perfect.%22%20%E2%80%94%20The%20Truth%20Untold;%22Live%20your%20life%20however%20you%20want%2C%20it%E2%80%99s%20yours%20anyway.%22%20%E2%80%94%20Fire;%22Everything%20will%20be%20okay%2C%20dream%20on.%22%20%E2%80%94%20Snooze;%22Whatever%20anyone%20says%2C%20I%27m%20just%20me.%22%20%E2%80%94%20IDOL;%22May%20your%20creation%20be%20with%20you%20until%20the%20end%20of%20your%20life.%22%20%E2%80%94%20So%20Far%20Away" alt="BTS Lyric SVG" />
   <!-- LYRICS_END -->
 </p>
 
